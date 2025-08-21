@@ -2,6 +2,13 @@
 
 I'm **Mukhammad Rizki Romadlon**, a full-stack developer passionate about building scalable web applications.
 
+#### 🌱 What I'm up to
+
+- Building efficient backend services with **Go** and **Fiber/Gin**
+- Crafting web applications using **Laravel** and **TypeScript**
+- Exploring microservices architecture patterns
+- Contributing to open source projects
+
 ## 💻 My Tech Stack
 
 <p align="center">
@@ -16,13 +23,6 @@ I'm **Mukhammad Rizki Romadlon**, a full-stack developer passionate about buildi
     <a href="https://www.docker.com/"><img alt="DOCKER" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
-
-#### 🌱 What I'm up to
-
-- Building efficient backend services with **Go** and **Fiber/Gin**
-- Crafting web applications using **Laravel** and **TypeScript**
-- Exploring microservices architecture patterns
-- Contributing to open source projects
 
 #### 📫 Get in touch
 
