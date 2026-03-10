@@ -1,7 +1,7 @@
 <div align="center">
 	<h1 align="center">Hi, I'm Rizki</h1>
 	<h4 align="center">
-		a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/" target="_blank">resume</a> for more
+		a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/yooerizkilab/yooerizkilab.github.io/blob/master/assets/CV_MukhamadRizkiRomadlon.pdf" target="_blank">resume</a> for more
 	</h4>
 </div>
 
