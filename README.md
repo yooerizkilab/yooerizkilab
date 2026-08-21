@@ -1,9 +1,14 @@
 <div align="center">
-	<h1 align="center">Hi, I'm Rizki</h1>
+	<h1 align="center">Hi, I'm Rizki 👋</h1>
 	<h4 align="center">
-		a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/yooerizkilab/yooerizkilab.github.io/blob/master/assets/CV_MukhamadRizkiRomadlon.pdf" target="_blank">resume</a> for more
+		A freelance backend developer passionate about building scalable, reliable, and maintainable software.
+		<br/>
+		I enjoy working with backend systems, APIs, databases, and system architecture.
+		<br/>
+		See my <a href="https://github.com/yooerizkilab/yooerizkilab.github.io/blob/master/assets/CV_MukhamadRizkiRomadlon.pdf" target="_blank">resume</a> for more about me.
 	</h4>
 </div>
+
 
 #### 🌱 What I'm up to
 
